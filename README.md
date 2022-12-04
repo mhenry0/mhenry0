@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mhenry0, I hope you are having a great day developing the future.
-- 👀 I’m interested in Front-end development, Formula 1, Languages, and building networking. 
-- 🌱 I’m currently learning HTML5, CSS3, and JavaScript
+- 👋 Hi, I’m @mhenry0, every day is still a <p></p>
+- 👀 I’m interested in Front-end engineering, virtual reality, and upgrading the future of businesses. 
+- 🌱 I’m currently working with HTML, CSS, JS, and React. 
 - 💞️ I’m looking to collaborate on front-end projects
 - 📫 How to reach me by sending me an email at sebas.bilps@gmail.com
 
