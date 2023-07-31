@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mhenry0, every day is still a <p></p>
-- 👀 I’m interested in Front-end engineering, virtual reality, and upgrading the future of businesses. 
-- 🌱 I’m currently working with HTML, CSS, JS, and React. 
-- 💞️ I’m looking to collaborate on front-end projects
+- 👋 Hi, I’m @mhenry0. I am very glad to meet you.
+- 👀 I’m interested in Cloud Development, I specialize in AWS Solutions Architect. 
+- 🌱 I’m currently working with AWS, Terraform (IaC), and Linux.
+- 💞️ I’m looking to start my journey in IT. 
 - 📫 How to reach me by sending me an email at sebas.bilps@gmail.com
 
 <!---
