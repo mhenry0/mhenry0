@@ -3,6 +3,7 @@
 - 🌱 I’m currently working with AWS, Terraform (IaC), and Linux.
 - 💞️ I’m looking to start my journey in IT. 
 - 📫 How to reach me by sending me an email at sebas.bilps@gmail.com
+- I speak Spanish as my native language, English as my second language, and I am studying Brazilian Portuguese to make it my third. 
 
 <!---
 mhenry0/mhenry0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
